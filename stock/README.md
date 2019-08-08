@@ -27,21 +27,21 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Day-To-Day task
-july 30, 2019- Day 1
+July 16, 2019- Day 1
 1. generated a component name search.
 2. generated a service name search.
 3. In search.component.html created a search box and a seaarch button.
 4. on the click of search button it should invoke a search service which consist of alert command.
 
-july 31, 2019- Day 2
+July 17, 2019- Day 2
 1. generated a stock file and stored share values in it and when i enter a name of any company/share name it will alert a share values.
 
-August 01, 2019- Day 3
+July 18, 2019- Day 3
 1. created a vairable a stored the result values in to view.
 2. modified the alert box to view content.
 
-August 02, 2019- Day 4
+July 19, 2019- Day 4
 1. created a varible to store the results from the curent searched and show them in past i.e; as the user search for a new share/company it will be record in past search reults.
 
-August 03, 2019- Day 5
+July 20, 2019- Day 5
 1. On clicking the past search values it will reshow the result.
